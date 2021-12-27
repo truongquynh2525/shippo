@@ -1,0 +1,34 @@
+{
+  "object_state": "VALID",
+  "status": "SUCCESS",
+  "object_created": "2021-12-27T11:02:57.915Z",
+  "object_updated": "2021-12-27T11:02:59.609Z",
+  "object_id": "85b70c4d8d4041e998a677283beea2ac",
+  "object_owner": "contact@vietshipping.us",
+  "test": true,
+  "rate": {
+  "object_id": "0990a174f3a0432d8edef3c4f8a74bf3",
+  "amount": "7.16",
+  "currency": "USD",
+  "amount_local": "7.16",
+  "currency_local": "USD",
+  "provider": "USPS",
+  "servicelevel_name": "Priority Mail",
+  "servicelevel_token": "usps_priority",
+  "carrier_account": "5c353ee55e7143f09e773c5be2bf66b0"
+  },
+  "tracking_number": "92055901755477000000000015",
+  "tracking_status": "UNKNOWN",
+  "eta": null,
+  "tracking_url_provider": "https://tools.usps.com/go/TrackConfirmAction_input?origTrackNum=92055901755477000000000015",
+  "label_url": "https://deliver.goshippo.com/85b70c4d8d4041e998a677283beea2ac.pdf?Expires=1672138979&Signature=FMDhWUfwYRkvZS0YKYd2-BG5rcBb8A1Qzt6JnrHfnM-gelpzPn5I3rdKccgACVTC2UiKw9xncc9Zqt3OGRe~Wj3ZsOnyEseoqZ9sc5ag35rQbq2UtGKF3MxzbxVyVbc7JiTpBWxS-~NV~eqlI6MbwBL9kBouh52use6PbO3UNzEchR7sYZwLN3teG9Fc9VLrzZDMjWXYkr-Qn1uIsBHPMUhrcCU~W1Q9knFrNyARsiDF57LFVCybgMPQbwFGkS5eD9b3LCXrwCB4pmwIZL3Bn~FPcE2KhSjKR3eyAxd6SZMzw~WGwkAFWU6k8ltGEw0BMGavTveB8cXoRr-IMEVGsw__&Key-Pair-Id=APKAJRICFXQ2S4YUQRSQ",
+  "commercial_invoice_url": null,
+  "messages": [],
+  "order": null,
+  "metadata": "",
+  "parcel": "063b849225c04d0eb6c3ff2f4a7f8a9b",
+  "billing": {
+  "payments": []
+  },
+  "qr_code_url": null
+  }
